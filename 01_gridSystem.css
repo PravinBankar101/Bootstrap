@@ -1,0 +1,13 @@
+.customdiv {
+    margin: 2px;
+    min-height: 300px;
+    background-color: rgb(213, 230, 224);
+    text-align: center;
+    font-size: larger;
+    color: rgb(18, 41, 173);
+}
+
+#mainHeading {
+   text-align: center;
+   color: rgb(175, 45, 78);
+}
